@@ -1,0 +1,11 @@
+{
+    "name": "ranchodeluxeco/rancho-boilerplate",
+    "description": "Base WordPress plugin boilerplate.",
+    "authors": [
+        {
+            "name": "Chris Canterbury",
+            "email": "chris@ranchodeluxe.co"
+        }
+    ],
+    "require": {}
+}
